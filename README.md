@@ -1,7 +1,13 @@
 # Gallery-Hawk
-
+________________________________
+THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY , DEV WONT BE LIABLE FOR ANY HARM CAUSED BY THIS TOOL
+_________________________________
 First time ever..!
 A Fully Undetectable..! Android gallery spyware is finally here.
+
+You can get daily lifetime new and old all photos and videos of the victim to your telegram without them ever noticing it. 👀
+
+
 
 Features :
 
