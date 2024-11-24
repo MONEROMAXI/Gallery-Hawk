@@ -1,6 +1,7 @@
 # Gallery-Hawk
 
-First time every , A Fully Undetectable..! Android gallery spyware is finally here.
+First time ever..!
+A Fully Undetectable..! Android gallery spyware is finally here.
 
 Features :
 
