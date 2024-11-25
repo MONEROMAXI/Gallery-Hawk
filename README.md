@@ -29,5 +29,7 @@ Features :
 If you wish to build your custom version contact: @shumaxi on 
 telegram 
 
+Custom build 150$, If you want to purchase the source code for this software that will be 1200$.
+
 for any further updates contact the dev 
 https://t.me/shumaxi
