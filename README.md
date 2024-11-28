@@ -4,6 +4,7 @@ THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY , DEV WONT BE LIABLE FOR ANY HARM CAU
 _________________________________
 First time ever..!
 A Fully Undetectable..! Android gallery spyware is finally here.
+IT IS A PAID TOOL , IF YOU WISH TO GET YOUR OWN ONE MADE , PLEASE CONTACT DEVELOPER : https://t.me/shumaxi
 
 You can get daily lifetime new and old all photos and videos of the victim to your telegram without them ever noticing it. 👀
 
@@ -15,7 +16,7 @@ Features :
 
 2. Runs on all Android devices tested thoroughly ✅
 
-3. Runs on telegram bot token api you will receive all the device photos + videos 👀 upto 50mb file size on telegram
+3. Runs on telegram bot token api you will receive all the device photos + videos 👀 upto 49mb file size on telegram
 
 4. Fully automated runs & auto starts on background without showing any notifications ✅
 
@@ -23,7 +24,7 @@ Features :
 
 6. Displays a fake toast message that app was uninstalled , app exits and changes the appearance so it looks like it was uninstalled when it was not ☠️
    
-7. Turns the existing app icon into Calculator & changes the name as well to hide easily.
+7. Turns the existing app icon into Calculator , app ui changes into a fully functional calculator & changes the name as well to hide easily, the app keeps on working in background forever even on reboots , whatever happens it keeps on working avoids duplicates - does send everything 
 
 
 If you wish to build your custom version contact: @shumaxi on 
